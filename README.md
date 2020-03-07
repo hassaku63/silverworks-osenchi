@@ -14,9 +14,9 @@
 
 S3 を入出力として、Comprehend による感情分析処理の結果を返します。
 
-# 使い方
+## 使い方
 
-## 前提
+### 前提
 
 - AWSアカウント
 - Node.js (>=10.16.3)
@@ -24,7 +24,7 @@ S3 を入出力として、Comprehend による感情分析処理の結果を返
 
 (To be written)
 
-# 出展
+## 出展
 
 - [技術書典8](https://techbookfest.org/event/tbf08)
 - [技術書典 応援祭](https://techbookfest.org/)
