@@ -1,0 +1,14 @@
+{
+  "app": "npx ts-node bin/osenchi.ts",
+  "context": {
+    "stage": "dev",
+    "prod": {
+      "service_name": "osenchi",
+      "emails": "hoge@xxx.com"
+    },
+    "dev": {
+      "service_name": "osenchi-dev",
+      "emails": "fuga@xxx.com"
+    }
+  }
+}
