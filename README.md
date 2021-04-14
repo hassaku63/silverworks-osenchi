@@ -28,3 +28,9 @@ S3 を入出力として、Comprehend による感情分析処理の結果を返
 
 - [技術書典8](https://techbookfest.org/event/tbf08)
 - [技術書典 応援祭](https://techbookfest.org/)
+
+## 追記
+
+(2021.04.14) 依存関係の陳腐化により、 Linter の結果が正しくなくなってしまう不具合を下記の記事でご指摘いただきました。ご指摘ありとうございます。
+
+https://note.com/dafujii/n/n35f964b1bd70
